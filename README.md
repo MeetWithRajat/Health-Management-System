@@ -1,5 +1,6 @@
 # Health-Management-System
-This  repository is for tracking health management system, handle with client and log or retrieve there exercise, diet and therapy. Also added trash for further use of deleted clients. Perform several client operations like add, delete &amp; update makes it more interesting &amp; reliable.
+This repository is for tracking health and condition of various clients, handle with multiple client and log or retrieve there exercise, diet and therapy.
+Also added trash for further use of deleted clients. Perform several client operations like add, delete & update makes it more interesting & reliable.
 
 This is command based program, user have several option that he/she can perform several operation by choosen the given option.
 
