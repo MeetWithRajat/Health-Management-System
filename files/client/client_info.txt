@@ -1,0 +1,9 @@
+CL0001 : Rajat Roy : 8967227501 : Anandapur, Paschim Medinipur : 67.5" : 52.0 KG
+CL0002 : Sounak Kumar Sinha : 7485964578 : Midnapore, Paschim Medinipur : 68.0" : 75.6 KG
+CL0003 : Subrata Mondal : 8569745632 : Baburdihi, Paschim Medinipur : 66.5" : 55.0 KG
+CL0005 : Taraknath Sarkar : 9685410101 : Midnapore, Paschim Medinipur : 67.0" : 56.5 KG
+CL0006 : Sourav Roy : 9812321412 : Saltlek Sector V, Kolkata : 64.5" : 68.0 KG
+CL0007 : Anil Bikas Chowdhuri : 9165968510 : New-Town, Sector-V, Kolkata : 66.0" : 78.0 KG
+CL0008 : Bubai Dolai : 7485960120 : Anandapur, Keshpur, West Benal : 66.0" : 65.0 KG
+CL0010 : Akash Das : 9696012012 : Anandapur, Paschim Medinipr : 68.0" : 62.0 KG
+CL0011 : Riya Saha : 8596745213 : Kolkata, West Bengal : 63.0" : 56.0 KG
