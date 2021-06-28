@@ -10,6 +10,20 @@ class ClientHandle:
         """Initializing the client list and client id from client info [f] and client id no [f]"""
 
         self.__client_list = dict()
+
+        if os.path.isdir(os.getcwd() + "/files"):
+            if os.path.isdir("files/client") is False:
+                os.mkdir("files/client")
+            if os.path.isdir("files/jobs") is False:
+                os.mkdir("files/jobs")
+            if os.path.isdir("files/trash") is False:
+                os.mkdir("files/trash")
+        else:
+            os.mkdir("files")
+            os.mkdir("files/client")
+            os.mkdir("files/jobs")
+            os.mkdir("files/trash")
+
         if os.path.isfile(os.getcwd() + "/files/client/client_info.txt"):
             with open("files/client/client_info.txt") as f:
                 info = f.readlines()
